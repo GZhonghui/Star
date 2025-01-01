@@ -23,5 +23,5 @@
 ## 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
 
-# 游戏
+## 游戏
 - [shadPS4](https://github.com/shadps4-emu/shadPS4) PS4模拟器 PlayStation 4 emulator for Windows, Linux and macOS written in C++
