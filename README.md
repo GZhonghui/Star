@@ -6,6 +6,9 @@
 - [aisuite](https://github.com/andrewyng/aisuite) 为多种AI服务提供简易接口 Simple, unified interface to multiple Generative AI providers
 - [ChatTTS](https://github.com/2noise/ChatTTS) A generative speech model for daily dialogue
 - [llama3](https://github.com/meta-llama/llama3) The official Meta Llama 3 GitHub site
+- [candle](https://github.com/huggingface/candle) Minimalist ML framework for Rust
+- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) A natural language interface for computers
+- [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
 
 ## CG
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) 流体仿真 SPlisHSPlasH is an open-source library for the physically-based simulation of fluids
@@ -20,6 +23,14 @@
 - [voxel-art](https://github.com/yuanming-hu/voxel-art) 使用taichi生成一个小小庭院
 - [mcut](https://github.com/cutdigital/mcut) A library for detecting and resolving intersections between two surface meshes
 - [slang](https://github.com/shader-slang/slang) Making it easier to work with shaders
+- [GPU_IPC](https://github.com/KemengHuang/GPU_IPC) 物理仿真相关 This is the first fully GPU Optimized IPC framework
+- [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries
+- [PhysGaussian](https://github.com/XPandora/PhysGaussian) Physics-Integrated 3D Gaussians for Generative Dynamics
+- [flightmare](https://github.com/uzh-rpg/flightmare) An Open Flexible Quadrotor Simulator
+- [PIFu](https://github.com/shunsukesaito/PIFu) 布料仿真 Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
+- [PyMCubes](https://github.com/pmneila/PyMCubes) Marching cubes (and related tools) for Python
+- [ant](https://github.com/ejoy/ant) 游戏引擎 Ant game engine
+- [vello](https://github.com/linebender/vello) A GPU compute-centric 2D renderer
 
 ## 开发工具
 - [ImHex](https://github.com/WerWolv/ImHex) 16进制编辑器 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM
@@ -28,6 +39,11 @@
 - [b2](https://github.com/bfgroup/b2) C++构建系统 B2 makes it easy to build C++ projects, everywhere
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
 - [luxirty-search](https://github.com/KoriIku/luxirty-search) 一个搜索引擎 基于Google 屏蔽内容农场
+- [tinyremo](https://github.com/alecjacobson/tinyremo) 自动微分库 Tiny header-only, minimal dependency reverse-mode automatic differentiation library for C++
+- [webdav-client-python-3](https://github.com/ezhov-evgeny/webdav-client-python-3) Easy to use WebDAV Client for Python 3.x
+- [shell_gpt](https://github.com/TheR1D/shell_gpt) A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently
+- [googletest](https://github.com/google/googletest) Google Testing and Mocking Framework
+- [joplin](https://github.com/laurent22/joplin) the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS
 
 ## 文件处理
 - [upscayl](https://github.com/upscayl/upscayl) AI图片放大器 #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
@@ -39,12 +55,15 @@
 - [shuffle](https://github.com/hyperjeff/shuffle) command-line audio player for macOS
 - [hfs](https://github.com/rejetto/hfs) HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system
 - [mpv](https://github.com/mpv-player/mpv) Command line video player
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) FFmpeg
 
 ## 算法
 - [ac-library](https://github.com/atcoder/ac-library) AtCoder Library
 
 ## 下载
 - [cobalt](https://github.com/imputnet/cobalt) 下载YT、IG等媒体文件 best way to save what you love
+- [spotify-downloader](https://github.com/spotDL/spotify-downloader) 下载Spotify音乐 Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
 
 ## 合集
 - [public-apis](https://github.com/public-apis/public-apis) 免费、开放的API合集 A collective list of free APIs
@@ -53,6 +72,8 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) CS论文合集 Papers from the computer science community to read and discuss
 - [fun-with-graphics](https://github.com/ZeusYang/fun-with-graphics) 这里整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目
 - [awesome-simulation](https://github.com/Housz/awesome-simulation) 图形学中物理模拟的资源整理 Resources for Physics based simulation in Computer Graphics
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer
+- [OpenGraphic](https://github.com/Gforcex/OpenGraphic) Graphic Engine & Game Engine lists
 
 ## 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
@@ -65,6 +86,7 @@
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
 - [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) Modifications to the Minecraft base files to assist in compatibility between mods
 - [Delta](https://github.com/rileytestut/Delta) 复古游戏模拟器 Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices
+- [citra](https://github.com/PabloMK7/citra) A Nintendo 3DS Emulator
 
 ## 数据
 - [mitsuba-data](https://github.com/mitsuba-renderer/mitsuba-data) Data files for Mitsuba 2
