@@ -27,6 +27,7 @@
 - [flightmare](https://github.com/uzh-rpg/flightmare) An Open Flexible Quadrotor Simulator
 - [PIFu](https://github.com/shunsukesaito/PIFu) 布料仿真 Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
 - [SoilMachine](https://github.com/weigert/SoilMachine) Advanced, modular, coupled geomorpohology simulator for real-time procedural terrain generation
+- [DiffCloth](https://github.com/omegaiota/DiffCloth) DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact
 
 ### 离线渲染
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) 基于物理的渲染引擎
@@ -34,6 +35,9 @@
 - [light2d](https://github.com/miloyip/light2d) 2D光线追踪
 - [cppLight2d](https://github.com/lilypuye/cppLight2d) 2D光线追踪
 - [akari_render](https://github.com/shiinamiyuki/akari_render) High Performance CPU/GPU Physically Based Renderer in Rust
+- [nonlinear-ray-tracing](https://github.com/shinjiogaki/nonlinear-ray-tracing) Nonlinear Ray Tracing for Displacement and Shell Mapping
+- [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks' open-source, award-winning, state-of-the-art production MCRT renderer
+- [rtnpr](https://github.com/kenji-tojo/rtnpr) Non-Photorealistic Renderer with Ray Tracing
 
 ### 实时渲染
 - [slang](https://github.com/shader-slang/slang) Making it easier to work with shaders
@@ -45,13 +49,18 @@
 ### 几何
 - [mcut](https://github.com/cutdigital/mcut) A library for detecting and resolving intersections between two surface meshes
 - [PyMCubes](https://github.com/pmneila/PyMCubes) Marching cubes (and related tools) for Python
+- [LAS-Diffusion](https://github.com/Zhengxinyang/LAS-Diffusion) Locally Attentional SDF Diffusion for Controllable 3D Shape Generation
+- [stealth-shaper](https://github.com/kenji-tojo/stealth-shaper) Stealth Shaper: Reflectivity Optimization as Surface Stylization
 
 ### 高性能计算
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) Making Rust a first-class language and ecosystem for GPU shaders
+- [nanoflann](https://github.com/jlblancoc/nanoflann) a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
 
 ### 游戏引擎
 - [ant](https://github.com/ejoy/ant) 游戏引擎 Ant game engine
 - [hyperion-engine](https://github.com/notomorrow/hyperion-engine) 3D game engine written in C++. Includes features like PBR, realtime global illumination, and more
+- [TinyEngine](https://github.com/weigert/TinyEngine) Tiny OpenGL Wrapper / 3D Engine in C++
+- [Piccolo](https://github.com/BoomingTech/Piccolo) Piccolo (formerly Pilot) - mini game engine for games104
 
 ### 杂项
 - [voxel-art](https://github.com/yuanming-hu/voxel-art) 使用taichi生成一个小小庭院
@@ -72,6 +81,9 @@
 - [joplin](https://github.com/laurent22/joplin) the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS
 - [openvkl](https://github.com/RenderKit/openvkl) Intel(R) Open Volume Kernel Library
 - [sprs](https://github.com/sparsemat/sprs) sparse linear algebra library for rust
+- [mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) Mitsuba integration add-on for Blender
+- [acme.sh](https://github.com/acmesh-official/acme.sh) A pure Unix shell script implementing ACME client protocol
+- [xLua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc
 
 ## 实用工具
 
@@ -80,6 +92,7 @@
 - [MinerU](https://github.com/opendatalab/MinerU) 将PDF转换为文本格式 A high-quality tool for convert PDF to Markdown and JSON
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) PDF工具大全 #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) 提取微信聊天记录 将其导出成HTML、Word、Excel文档永久保存
+- [sfz](https://github.com/joyqi/sfz) 专门用于给图片加水印打码的工具 完全基于浏览器本地API 无任何网络请求
 
 ### 文件传输
 - [hfs](https://github.com/rejetto/hfs) HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system
@@ -91,6 +104,8 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) FFmpeg
 - [iina](https://github.com/iina/iina) The modern video player for macOS
+- [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 播放器皮肤 A Clean · Full Dynamic Color Reborn · Foobar2000 player
+- [musicn](https://github.com/zonemeen/musicn) 一个可播放及下载音乐的 Node.js 命令行工具
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
@@ -100,6 +115,7 @@
 ### 安卓
 - [apk-editor-studio](https://github.com/kefir500/apk-editor-studio) Powerful yet easy to use APK editor for PC and Mac
 - [android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) M1芯片上的安卓模拟器
+- [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 
 ### 下载
 - [cobalt](https://github.com/imputnet/cobalt) 下载YT、IG等媒体文件 best way to save what you love
@@ -107,13 +123,18 @@
 
 ### 杂项
 - [Mos](https://github.com/Caldis/Mos) 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具 让你的滚轮爽如触控板
+- [pomotroid](https://github.com/Splode/pomotroid) Simple and visually-pleasing Pomodoro timer
 
 ## 文档
+
+### 数学
+- [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
 ### 算法
 - [ac-library](https://github.com/atcoder/ac-library) AtCoder Library
 - [D3D12_Research](https://github.com/simco50/D3D12_Research) Personal hobby project to experiment with various rendering techniques
 - [GfxExp](https://github.com/shocker-0x15/GfxExp) Sandbox for graphics paper implementation
+- [OI-Source](https://github.com/dtcxzyw/OI-Source) OI代码仓库、复习笔记、代码模板、本地Judger
 
 ### 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
@@ -131,18 +152,32 @@
 - [OpenGraphic](https://github.com/Gforcex/OpenGraphic) Graphic Engine & Game Engine lists
 
 ## 游戏
-- [shadPS4](https://github.com/shadps4-emu/shadPS4) PS4模拟器 PlayStation 4 emulator for Windows, Linux and macOS written in C++
-- [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) 挑战一周实现MC I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
-- [ClassiCube](https://github.com/ClassiCube/ClassiCube) Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
-- [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) Modifications to the Minecraft base files to assist in compatibility between mods
+
+### 经典游戏
 - [Delta](https://github.com/rileytestut/Delta) 复古游戏模拟器 Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices
 - [citra](https://github.com/PabloMK7/citra) A Nintendo 3DS Emulator
 - [desmume](https://github.com/TASEmulators/desmume) DeSmuME is a Nintendo DS emulator
+
+### PS
+- [shadPS4](https://github.com/shadps4-emu/shadPS4) PS4模拟器 PlayStation 4 emulator for Windows, Linux and macOS written in C++
+
+### NS
+- [SAK](https://github.com/dezem/SAK) Switch Army Knife (SAK)
+- [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+
+### PC
+- [SteamTools](https://github.com/BeyondDimension/SteamTools) 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱
+
+### MC
+- [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) 挑战一周实现MC I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube) Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
+- [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) Modifications to the Minecraft base files to assist in compatibility between mods
 
 ## 杂项
 
 ### 字体
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) 霞鹜文楷 An open-source Chinese font derived from Fontworks' Klee One
+- [I.Ming](https://github.com/ichitenfont/I.Ming) I.Ming ( I.明體 / 一点明朝体 / 一點明體 )
 
 ### 数据
 - [mitsuba-data](https://github.com/mitsuba-renderer/mitsuba-data) Data files for Mitsuba 2
