@@ -163,7 +163,7 @@
 
 ### NS
 - [SAK](https://github.com/dezem/SAK) Switch Army Knife (SAK)
-- [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+- [ns-emu-tools](https://github.com/triwinds/ns-emu-tools) 一个用于安装/更新 NS 模拟器的工具
 
 ### PC
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱
