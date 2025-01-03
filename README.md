@@ -10,6 +10,7 @@
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) A natural language interface for computers
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
 - [text2mesh](https://github.com/threedle/text2mesh) 3D mesh stylization driven by a text input in PyTorch
+- [pifuhd](https://github.com/facebookresearch/pifuhd) High-Resolution 3D Human Digitization from A Single Image
 
 ## CG
 
@@ -24,6 +25,10 @@
 - [SPH_Project](https://github.com/jason-huang03/SPH_Project) SPH Realization of Fluid Simulation. Featuring Large Scale Simulation, Rigid-Fluid Coupling and High Viscosity Fluid
 - [2d-fluid-simulator](https://github.com/takah29/2d-fluid-simulator) 2D incompressible fluid solver implemented in Taichi
 - [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids with Bidirectional Mapping
+- [sph_seepage_flows](https://github.com/RaymondMcGuire/sph_seepage_flows) Source code for paper "Visual Simulation of Soil-Structure Destruction with Seepage Flows" PACMCGIT(Proc. SCA2021)
+- [FleX](https://github.com/NVIDIAGameWorks/FleX) Flex is a particle-based simulation library designed for real-time applications
+- [SPH_Taichi](https://github.com/erizmr/SPH_Taichi) A high-performance implementation of SPH in Taichi
+- [a-toy-fluid-engine](https://github.com/Jack12xl/a-toy-fluid-engine) try to reimplement Euler based fluid
 
 ### 其他仿真
 - [GPU_IPC](https://github.com/KemengHuang/GPU_IPC) 物理仿真相关 This is the first fully GPU Optimized IPC framework
@@ -32,6 +37,9 @@
 - [SoilMachine](https://github.com/weigert/SoilMachine) Advanced, modular, coupled geomorpohology simulator for real-time procedural terrain generation
 - [DiffCloth](https://github.com/omegaiota/DiffCloth) DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact
 - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
+- [polyfem](https://github.com/polyfem/polyfem) A polyvalent C++ FEM library
+- [rigid-ipc](https://github.com/ipc-sim/rigid-ipc) Robust, intersection-free, simulations of rigid bodies
+- [delfem2](https://github.com/nobuyuki83/delfem2) Research prototyping framework for physics simulation written in C++
 
 ### 离线渲染
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) 基于物理的渲染引擎
@@ -53,6 +61,9 @@
 - [rust_minifb](https://github.com/emoon/rust_minifb) Cross platfrom window and framebuffer crate for Rust
 - [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) High-Performance Rendering Framework on Stream Architectures
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) FFT ocean for Unity
+- [im3d](https://github.com/john-chapman/im3d) Immediate mode rendering and 3d gizmos
+- [RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension
+- [Graphics](https://github.com/Unity-Technologies/Graphics) Unity Graphics - Including Scriptable Render Pipeline
 
 ### 几何
 - [mcut](https://github.com/cutdigital/mcut) A library for detecting and resolving intersections between two surface meshes
@@ -61,18 +72,22 @@
 - [stealth-shaper](https://github.com/kenji-tojo/stealth-shaper) Stealth Shaper: Reflectivity Optimization as Surface Stylization
 - [tinygltf](https://github.com/syoyo/tinygltf) Header only C++11 tiny glTF 2.0 library
 - [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
+- [sdf](https://github.com/fogleman/sdf) Simple SDF mesh generation in Python
+- [assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure
 
 ### 高性能计算
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) Making Rust a first-class language and ecosystem for GPU shaders
 - [nanoflann](https://github.com/jlblancoc/nanoflann) a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
 - [TaichiGAME](https://github.com/maksyuki/TaichiGAME) GPU Accelerated Motion Engine based on Taichi Lang
 - [taichi_elements](https://github.com/taichi-dev/taichi_elements) High-performance multi-material continuum physics engine in Taichi
+- [difftaichi](https://github.com/taichi-dev/difftaichi) 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 
 ### 游戏引擎
 - [ant](https://github.com/ejoy/ant) 游戏引擎 Ant game engine
 - [hyperion-engine](https://github.com/notomorrow/hyperion-engine) 3D game engine written in C++. Includes features like PBR, realtime global illumination, and more
 - [TinyEngine](https://github.com/weigert/TinyEngine) Tiny OpenGL Wrapper / 3D Engine in C++
 - [Piccolo](https://github.com/BoomingTech/Piccolo) Piccolo (formerly Pilot) - mini game engine for games104
+- [Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware
 
 ### 杂项
 - [voxel-art](https://github.com/yuanming-hu/voxel-art) 使用taichi生成一个小小庭院
@@ -88,14 +103,19 @@
 - [shell_gpt](https://github.com/TheR1D/shell_gpt) A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently
 - [joplin](https://github.com/laurent22/joplin) the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS
 - [acme.sh](https://github.com/acmesh-official/acme.sh) A pure Unix shell script implementing ACME client protocol
+- [terminal](https://github.com/microsoft/terminal) The new Windows Terminal and the original Windows console host, all in the same place
+
+### 插件
+- [taichi_houdini](https://github.com/taichi-dev/taichi_houdini) a High-Performance Multi-Material Continuum Physics Engine, as a Houdini extension
+- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) 在虚幻引擎中使用Python Embed Python in Unreal Engine 4
 - [mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) Mitsuba integration add-on for Blender
+- [Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ) A Blender add-on for importing a sequence of OBJ meshes as frames
 
 ### 网络
 - [muduo](https://github.com/chenshuo/muduo) Event-driven network library for multi-threaded Linux server in C++11
 - [webdav-client-python-3](https://github.com/ezhov-evgeny/webdav-client-python-3) Easy to use WebDAV Client for Python 3.x
 
 ### 语言
-- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) 在虚幻引擎中使用Python Embed Python in Unreal Engine 4
 - [xLua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc
 - [wenyan](https://github.com/wenyan-lang/wenyan) 文言文編程語言 A programming language for the ancient Chinese
 - [stb](https://github.com/nothings/stb) stb single-file public domain libraries for C/C++
@@ -139,6 +159,7 @@
 - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 播放器皮肤 A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [musicn](https://github.com/zonemeen/musicn) 一个可播放及下载音乐的 Node.js 命令行工具
 - [NeteaseMusic](https://github.com/jsososo/NeteaseMusic) 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端
+- [obs-studio](https://github.com/obsproject/obs-studio) Free and open source software for live streaming and screen recording
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
@@ -170,6 +191,8 @@
 - [OI-Source](https://github.com/dtcxzyw/OI-Source) OI代码仓库、复习笔记、代码模板、本地Judger
 - [BlackHoleRayMarching](https://github.com/theAfish/BlackHoleRayMarching) 渲染黑洞
 - [LearnUnityShader](https://github.com/csdjk/LearnUnityShader) 记录学习Unity Shader过程中实现过的一些Demo
+- [Taichi](https://github.com/YuCrazing/Taichi) Taichi demos
+- [Particle-Based-Fluid](https://github.com/RaymondMcGuire/Particle-Based-Fluid) 基于粒子的流体仿真算法合集
 
 ### 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
@@ -185,6 +208,7 @@
 - [awesome-simulation](https://github.com/Housz/awesome-simulation) 图形学中物理模拟的资源整理 Resources for Physics based simulation in Computer Graphics
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer
 - [OpenGraphic](https://github.com/Gforcex/OpenGraphic) Graphic Engine & Game Engine lists
+- [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) A curated list of awesome collision detection libraries and resources
 
 ## 游戏
 
@@ -216,3 +240,4 @@
 
 ### 数据
 - [mitsuba-data](https://github.com/mitsuba-renderer/mitsuba-data) Data files for Mitsuba 2
+- [DeformingThings4D](https://github.com/rabbityl/DeformingThings4D) DeformingThings4D is an synthetic dataset containing 1,972 animation sequences spanning 31 categories of humanoids and animals
