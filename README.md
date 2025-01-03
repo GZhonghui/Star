@@ -40,6 +40,7 @@
 - [polyfem](https://github.com/polyfem/polyfem) A polyvalent C++ FEM library
 - [rigid-ipc](https://github.com/ipc-sim/rigid-ipc) Robust, intersection-free, simulations of rigid bodies
 - [delfem2](https://github.com/nobuyuki83/delfem2) Research prototyping framework for physics simulation written in C++
+- [bullet3](https://github.com/bulletphysics/bullet3) real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 
 ### 离线渲染
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) 基于物理的渲染引擎
@@ -53,6 +54,8 @@
 - [BlenderPythonRenderer](https://github.com/bsavery/BlenderPythonRenderer) A Python GPU renderer for Blender using the Taichi package
 - [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) A toy physically based GPU path tracer (C++/OpenGL/GLSL)
 - [Atrc](https://github.com/AirGuanZ/Atrc) 光线追踪器
+- [nori](https://github.com/wjakob/nori) an educational ray tracer
+- [Paladin](https://github.com/FaithZL/Paladin) 一个离线渲染器
 
 ### 实时渲染
 - [slang](https://github.com/shader-slang/slang) Making it easier to work with shaders
@@ -64,6 +67,9 @@
 - [im3d](https://github.com/john-chapman/im3d) Immediate mode rendering and 3d gizmos
 - [RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension
 - [Graphics](https://github.com/Unity-Technologies/Graphics) Unity Graphics - Including Scriptable Render Pipeline
+- [kiero](https://github.com/Rebzzel/kiero) Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games
+- [VQEngine](https://github.com/vilbeyli/VQEngine) Multi-threaded DirectX12 renderer w/ HDR, PBR & Multi-monitor support
+- [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
 ### 几何
 - [mcut](https://github.com/cutdigital/mcut) A library for detecting and resolving intersections between two surface meshes
@@ -74,6 +80,10 @@
 - [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 - [sdf](https://github.com/fogleman/sdf) Simple SDF mesh generation in Python
 - [assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure
+- [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer
+
+### 动画
+- [AnimatorGo](https://github.com/ray-cast/AnimatorGo) 提倡以简单、易用、高质量的物理演算以及渲染质量和性能 为喜爱二次元动画的用户降低视频制作门槛
 
 ### 高性能计算
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) Making Rust a first-class language and ecosystem for GPU shaders
@@ -88,6 +98,7 @@
 - [TinyEngine](https://github.com/weigert/TinyEngine) Tiny OpenGL Wrapper / 3D Engine in C++
 - [Piccolo](https://github.com/BoomingTech/Piccolo) Piccolo (formerly Pilot) - mini game engine for games104
 - [Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware
+- [Utopia](https://github.com/Ubpa/Utopia) Utopia Game Engine 无境游戏引擎
 
 ### 杂项
 - [voxel-art](https://github.com/yuanming-hu/voxel-art) 使用taichi生成一个小小庭院
@@ -104,6 +115,9 @@
 - [joplin](https://github.com/laurent22/joplin) the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS
 - [acme.sh](https://github.com/acmesh-official/acme.sh) A pure Unix shell script implementing ACME client protocol
 - [terminal](https://github.com/microsoft/terminal) The new Windows Terminal and the original Windows console host, all in the same place
+- [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image viewer for graphics people
+- [renderdoc](https://github.com/baldurk/renderdoc) RenderDoc is a stand-alone graphics debugging tool
+- [Dependencies](https://github.com/lucasg/Dependencies) A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues
 
 ### 插件
 - [taichi_houdini](https://github.com/taichi-dev/taichi_houdini) a High-Performance Multi-Material Continuum Physics Engine, as a Houdini extension
@@ -136,6 +150,10 @@
 ### GUI
 - [libui](https://github.com/andlabs/libui) Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
 - [streamlit](https://github.com/streamlit/streamlit) 使用Python快速创建Web应用 A faster way to build and share data apps
+- [superset](https://github.com/apache/superset) Apache Superset is a Data Visualization and Data Exploration Platform
+- [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) A C++ Graphics Library for Data Visualization
+- [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) Node Editor built using Dear ImGui
+- [imgui](https://github.com/ocornut/imgui) Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## 实用工具
 
@@ -193,6 +211,8 @@
 - [LearnUnityShader](https://github.com/csdjk/LearnUnityShader) 记录学习Unity Shader过程中实现过的一些Demo
 - [Taichi](https://github.com/YuCrazing/Taichi) Taichi demos
 - [Particle-Based-Fluid](https://github.com/RaymondMcGuire/Particle-Based-Fluid) 基于粒子的流体仿真算法合集
+- [VulkanDemos](https://github.com/BobLChen/VulkanDemos) Some simple vulkan examples
+- [GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) 图形学论文实现
 
 ### 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
@@ -209,6 +229,7 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer
 - [OpenGraphic](https://github.com/Gforcex/OpenGraphic) Graphic Engine & Game Engine lists
 - [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) A curated list of awesome collision detection libraries and resources
+- [USTC_CG](https://github.com/Ubpa/USTC_CG) 中国科学技术大学《计算机图形学》课程作业
 
 ## 游戏
 
