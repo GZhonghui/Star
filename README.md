@@ -9,6 +9,7 @@
 - [candle](https://github.com/huggingface/candle) Minimalist ML framework for Rust
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) A natural language interface for computers
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
+- [text2mesh](https://github.com/threedle/text2mesh) 3D mesh stylization driven by a text input in PyTorch
 
 ## CG
 
@@ -21,6 +22,8 @@
 - [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries
 - [SimpleHydrology](https://github.com/weigert/SimpleHydrology) Procedural Hydrology / River / Lake Simulation
 - [SPH_Project](https://github.com/jason-huang03/SPH_Project) SPH Realization of Fluid Simulation. Featuring Large Scale Simulation, Rigid-Fluid Coupling and High Viscosity Fluid
+- [2d-fluid-simulator](https://github.com/takah29/2d-fluid-simulator) 2D incompressible fluid solver implemented in Taichi
+- [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids with Bidirectional Mapping
 
 ### 其他仿真
 - [GPU_IPC](https://github.com/KemengHuang/GPU_IPC) 物理仿真相关 This is the first fully GPU Optimized IPC framework
@@ -28,6 +31,7 @@
 - [PIFu](https://github.com/shunsukesaito/PIFu) 布料仿真 Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
 - [SoilMachine](https://github.com/weigert/SoilMachine) Advanced, modular, coupled geomorpohology simulator for real-time procedural terrain generation
 - [DiffCloth](https://github.com/omegaiota/DiffCloth) DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact
+- [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 
 ### 离线渲染
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) 基于物理的渲染引擎
@@ -38,6 +42,9 @@
 - [nonlinear-ray-tracing](https://github.com/shinjiogaki/nonlinear-ray-tracing) Nonlinear Ray Tracing for Displacement and Shell Mapping
 - [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks' open-source, award-winning, state-of-the-art production MCRT renderer
 - [rtnpr](https://github.com/kenji-tojo/rtnpr) Non-Photorealistic Renderer with Ray Tracing
+- [BlenderPythonRenderer](https://github.com/bsavery/BlenderPythonRenderer) A Python GPU renderer for Blender using the Taichi package
+- [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) A toy physically based GPU path tracer (C++/OpenGL/GLSL)
+- [Atrc](https://github.com/AirGuanZ/Atrc) 光线追踪器
 
 ### 实时渲染
 - [slang](https://github.com/shader-slang/slang) Making it easier to work with shaders
@@ -45,16 +52,21 @@
 - [vello](https://github.com/linebender/vello) A GPU compute-centric 2D renderer
 - [rust_minifb](https://github.com/emoon/rust_minifb) Cross platfrom window and framebuffer crate for Rust
 - [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) High-Performance Rendering Framework on Stream Architectures
+- [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) FFT ocean for Unity
 
 ### 几何
 - [mcut](https://github.com/cutdigital/mcut) A library for detecting and resolving intersections between two surface meshes
 - [PyMCubes](https://github.com/pmneila/PyMCubes) Marching cubes (and related tools) for Python
 - [LAS-Diffusion](https://github.com/Zhengxinyang/LAS-Diffusion) Locally Attentional SDF Diffusion for Controllable 3D Shape Generation
 - [stealth-shaper](https://github.com/kenji-tojo/stealth-shaper) Stealth Shaper: Reflectivity Optimization as Surface Stylization
+- [tinygltf](https://github.com/syoyo/tinygltf) Header only C++11 tiny glTF 2.0 library
+- [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 
 ### 高性能计算
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) Making Rust a first-class language and ecosystem for GPU shaders
 - [nanoflann](https://github.com/jlblancoc/nanoflann) a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
+- [TaichiGAME](https://github.com/maksyuki/TaichiGAME) GPU Accelerated Motion Engine based on Taichi Lang
+- [taichi_elements](https://github.com/taichi-dev/taichi_elements) High-performance multi-material continuum physics engine in Taichi
 
 ### 游戏引擎
 - [ant](https://github.com/ejoy/ant) 游戏引擎 Ant game engine
@@ -68,22 +80,42 @@
 - [SamplinSafari](https://github.com/wkjarosz/SamplinSafari) Samplin' Safari is a research tool to visualize and interactively inspect high-dimensional (quasi) Monte Carlo samplers
 
 ## 开发工具
+
+### 软件
 - [ImHex](https://github.com/WerWolv/ImHex) 16进制编辑器 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM
-- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) 在虚幻引擎中使用Python Embed Python in Unreal Engine 4
-- [streamlit](https://github.com/streamlit/streamlit) 使用Python快速创建Web应用 A faster way to build and share data apps
-- [b2](https://github.com/bfgroup/b2) C++构建系统 B2 makes it easy to build C++ projects, everywhere
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
 - [luxirty-search](https://github.com/KoriIku/luxirty-search) 一个搜索引擎 基于Google 屏蔽内容农场
-- [tinyremo](https://github.com/alecjacobson/tinyremo) 自动微分库 Tiny header-only, minimal dependency reverse-mode automatic differentiation library for C++
-- [webdav-client-python-3](https://github.com/ezhov-evgeny/webdav-client-python-3) Easy to use WebDAV Client for Python 3.x
 - [shell_gpt](https://github.com/TheR1D/shell_gpt) A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently
-- [googletest](https://github.com/google/googletest) Google Testing and Mocking Framework
 - [joplin](https://github.com/laurent22/joplin) the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS
+- [acme.sh](https://github.com/acmesh-official/acme.sh) A pure Unix shell script implementing ACME client protocol
+- [mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) Mitsuba integration add-on for Blender
+
+### 网络
+- [muduo](https://github.com/chenshuo/muduo) Event-driven network library for multi-threaded Linux server in C++11
+- [webdav-client-python-3](https://github.com/ezhov-evgeny/webdav-client-python-3) Easy to use WebDAV Client for Python 3.x
+
+### 语言
+- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) 在虚幻引擎中使用Python Embed Python in Unreal Engine 4
+- [xLua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc
+- [wenyan](https://github.com/wenyan-lang/wenyan) 文言文編程語言 A programming language for the ancient Chinese
+- [stb](https://github.com/nothings/stb) stb single-file public domain libraries for C/C++
+
+### 数学
+- [tinyremo](https://github.com/alecjacobson/tinyremo) 自动微分库 Tiny header-only, minimal dependency reverse-mode automatic differentiation library for C++
 - [openvkl](https://github.com/RenderKit/openvkl) Intel(R) Open Volume Kernel Library
 - [sprs](https://github.com/sparsemat/sprs) sparse linear algebra library for rust
-- [mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) Mitsuba integration add-on for Blender
-- [acme.sh](https://github.com/acmesh-official/acme.sh) A pure Unix shell script implementing ACME client protocol
-- [xLua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc
+- [manim](https://github.com/3b1b/manim) Animation engine for explanatory math videos
+
+### 游戏
+- [raylib](https://github.com/raysan5/raylib) A simple and easy-to-use library to enjoy videogames programming
+
+### 项目管理
+- [b2](https://github.com/bfgroup/b2) C++构建系统 B2 makes it easy to build C++ projects, everywhere
+- [googletest](https://github.com/google/googletest) Google Testing and Mocking Framework
+
+### GUI
+- [libui](https://github.com/andlabs/libui) Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
+- [streamlit](https://github.com/streamlit/streamlit) 使用Python快速创建Web应用 A faster way to build and share data apps
 
 ## 实用工具
 
@@ -106,6 +138,7 @@
 - [iina](https://github.com/iina/iina) The modern video player for macOS
 - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 播放器皮肤 A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [musicn](https://github.com/zonemeen/musicn) 一个可播放及下载音乐的 Node.js 命令行工具
+- [NeteaseMusic](https://github.com/jsososo/NeteaseMusic) 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
@@ -135,6 +168,8 @@
 - [D3D12_Research](https://github.com/simco50/D3D12_Research) Personal hobby project to experiment with various rendering techniques
 - [GfxExp](https://github.com/shocker-0x15/GfxExp) Sandbox for graphics paper implementation
 - [OI-Source](https://github.com/dtcxzyw/OI-Source) OI代码仓库、复习笔记、代码模板、本地Judger
+- [BlackHoleRayMarching](https://github.com/theAfish/BlackHoleRayMarching) 渲染黑洞
+- [LearnUnityShader](https://github.com/csdjk/LearnUnityShader) 记录学习Unity Shader过程中实现过的一些Demo
 
 ### 教程
 - [SPH-Tutorial](https://github.com/InteractiveComputerGraphics/SPH-Tutorial) SPH教程 A course on Smoothed Particle Hydrodynamics (SPH)
