@@ -1,16 +1,32 @@
 # Star
 
 ## AI
-- [style2paints](https://github.com/lllyasviel/style2paints) AI风格绘画 sketch + style = paints
-- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
-- [aisuite](https://github.com/andrewyng/aisuite) 为多种AI服务提供简易接口 Simple, unified interface to multiple Generative AI providers
-- [ChatTTS](https://github.com/2noise/ChatTTS) A generative speech model for daily dialogue
+
+### 代码
+
+### 模型
 - [llama3](https://github.com/meta-llama/llama3) The official Meta Llama 3 GitHub site
-- [candle](https://github.com/huggingface/candle) Minimalist ML framework for Rust
-- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) A natural language interface for computers
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
+- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) Let the Code Write Itself
+
+### 文档阅读
+- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
+- [storm](https://github.com/stanford-oval/storm) An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations
+- [kotaemon](https://github.com/Cinnamon/kotaemon) An open-source RAG-based tool for chatting with your documents
+
+### 绘画配音
+- [style2paints](https://github.com/lllyasviel/style2paints) AI风格绘画 sketch + style = paints
+- [ChatTTS](https://github.com/2noise/ChatTTS) A generative speech model for daily dialogue
 - [text2mesh](https://github.com/threedle/text2mesh) 3D mesh stylization driven by a text input in PyTorch
 - [pifuhd](https://github.com/facebookresearch/pifuhd) High-Resolution 3D Human Digitization from A Single Image
+
+### 实用工具
+- [aisuite](https://github.com/andrewyng/aisuite) 为多种AI服务提供简易接口 Simple, unified interface to multiple Generative AI providers
+- [candle](https://github.com/huggingface/candle) Minimalist ML framework for Rust
+- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) A natural language interface for computers
+- [eliza](https://github.com/elizaOS/eliza) AI机器人 Autonomous agents for everyone
+- [jan](https://github.com/janhq/jan) Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better
 
 ## CG
 
@@ -230,6 +246,7 @@
 - [OpenGraphic](https://github.com/Gforcex/OpenGraphic) Graphic Engine & Game Engine lists
 - [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) A curated list of awesome collision detection libraries and resources
 - [USTC_CG](https://github.com/Ubpa/USTC_CG) 中国科学技术大学《计算机图形学》课程作业
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch
 
 ## 游戏
 
