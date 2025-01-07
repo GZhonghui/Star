@@ -3,11 +3,11 @@
 ## AI
 
 ### 代码
+- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) Let the Code Write Itself
 
 ### 模型
 - [llama3](https://github.com/meta-llama/llama3) The official Meta Llama 3 GitHub site
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
-- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) Let the Code Write Itself
 
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
