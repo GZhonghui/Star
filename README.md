@@ -8,6 +8,8 @@
 ### 模型
 - [llama3](https://github.com/meta-llama/llama3) The official Meta Llama 3 GitHub site
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 便宜、开源
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 便宜、开源
 
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
@@ -194,6 +196,7 @@
 - [musicn](https://github.com/zonemeen/musicn) 一个可播放及下载音乐的 Node.js 命令行工具
 - [NeteaseMusic](https://github.com/jsososo/NeteaseMusic) 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端
 - [obs-studio](https://github.com/obsproject/obs-studio) Free and open source software for live streaming and screen recording
+- [Follow](https://github.com/RSSNext/Follow) 一个RSS阅读器
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
