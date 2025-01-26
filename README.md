@@ -11,6 +11,9 @@
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 便宜、开源
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 便宜、开源
 
+### 运行模型
+- [ollama](https://github.com/ollama/ollama) 在本地运行LLM模型 Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models
+
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
 - [storm](https://github.com/stanford-oval/storm) An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations
@@ -215,6 +218,7 @@
 ### 杂项
 - [Mos](https://github.com/Caldis/Mos) 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具 让你的滚轮爽如触控板
 - [pomotroid](https://github.com/Splode/pomotroid) Simple and visually-pleasing Pomodoro timer
+- [it-tools](https://github.com/CorentinTh/it-tools) 工具大合集 使用 Docker 部署 Collection of handy online tools for developers, with great UX
 
 ## 文档
 
@@ -242,6 +246,7 @@
 - [public-apis](https://github.com/public-apis/public-apis) 免费、开放的API合集 A collective list of free APIs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 免费编程书籍 Freely available programming books
 - [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) 支持OpenAI API的第三方工具 Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota
+- [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) 深度求索的AI工具合集
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) CS论文合集 Papers from the computer science community to read and discuss
 - [fun-with-graphics](https://github.com/ZeusYang/fun-with-graphics) 这里整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目
 - [awesome-simulation](https://github.com/Housz/awesome-simulation) 图形学中物理模拟的资源整理 Resources for Physics based simulation in Computer Graphics
@@ -272,6 +277,7 @@
 - [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) 挑战一周实现MC I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
 - [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) Modifications to the Minecraft base files to assist in compatibility between mods
+- [cuberite](https://github.com/cuberite/cuberite) 一个第三方MC服务器端 A lightweight, fast and extensible game server for Minecraft
 
 ## 杂项
 
