@@ -13,6 +13,7 @@
 
 ### 运行模型
 - [ollama](https://github.com/ollama/ollama) 在本地运行LLM模型 Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models
+- [lobe-chat](https://github.com/lobehub/lobe-chat) Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application
 
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
@@ -32,6 +33,7 @@
 - [eliza](https://github.com/elizaOS/eliza) AI机器人 Autonomous agents for everyone
 - [jan](https://github.com/janhq/jan) Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations
 
 ## CG
 
