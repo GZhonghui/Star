@@ -52,6 +52,7 @@
 - [FleX](https://github.com/NVIDIAGameWorks/FleX) Flex is a particle-based simulation library designed for real-time applications
 - [SPH_Taichi](https://github.com/erizmr/SPH_Taichi) A high-performance implementation of SPH in Taichi
 - [a-toy-fluid-engine](https://github.com/Jack12xl/a-toy-fluid-engine) try to reimplement Euler based fluid
+- [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) 流体仿真引擎
 
 ### 其他仿真
 - [GPU_IPC](https://github.com/KemengHuang/GPU_IPC) 物理仿真相关 This is the first fully GPU Optimized IPC framework
