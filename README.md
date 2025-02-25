@@ -178,6 +178,7 @@
 - [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) A C++ Graphics Library for Data Visualization
 - [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) Node Editor built using Dear ImGui
 - [imgui](https://github.com/ocornut/imgui) Bloat-free Graphical User interface for C++ with minimal dependencies
+- [vue](https://github.com/vuejs/vue) 一个用于构建用户界面的JavaScript框架
 
 ## 实用工具
 
@@ -190,6 +191,9 @@
 
 ### 文件传输
 - [hfs](https://github.com/rejetto/hfs) HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system
+- [alist](https://github.com/AlistGo/alist) 一个支持多种存储的文件列表程序
+- [xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) 阿里云盘爬虫
+- [rclone](https://github.com/rclone/rclone) 挂载云存储到本地
 
 ### 影音媒体
 - [kew](https://github.com/ravachol/kew) A terminal music player
