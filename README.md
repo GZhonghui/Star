@@ -210,6 +210,7 @@
 - [Follow](https://github.com/RSSNext/Follow) 一个RSS阅读器
 - [local-music-pwa](https://github.com/minht11/local-music-pwa) 一个本地音乐播放器 Lightweight on device music player PWA
 - [Kavita](https://github.com/Kareadita/Kavita) 一个电子书阅读器 Kavita is a fast, feature rich, cross platform reading server
+- [calibre-web](https://github.com/janeczku/calibre-web) 一个电子书阅读器 Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
