@@ -142,6 +142,7 @@
 - [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image viewer for graphics people
 - [renderdoc](https://github.com/baldurk/renderdoc) RenderDoc is a stand-alone graphics debugging tool
 - [Dependencies](https://github.com/lucasg/Dependencies) A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues
+- [1Panel](https://github.com/1Panel-dev/1Panel) 一个开源的云操作系统 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server
 
 ### 插件
 - [taichi_houdini](https://github.com/taichi-dev/taichi_houdini) a High-Performance Multi-Material Continuum Physics Engine, as a Houdini extension
@@ -207,6 +208,8 @@
 - [NeteaseMusic](https://github.com/jsososo/NeteaseMusic) 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端
 - [obs-studio](https://github.com/obsproject/obs-studio) Free and open source software for live streaming and screen recording
 - [Follow](https://github.com/RSSNext/Follow) 一个RSS阅读器
+- [local-music-pwa](https://github.com/minht11/local-music-pwa) 一个本地音乐播放器 Lightweight on device music player PWA
+- [Kavita](https://github.com/Kareadita/Kavita) 一个电子书阅读器 Kavita is a fast, feature rich, cross platform reading server
 
 ### 密码管理
 - [KeePassium](https://github.com/keepassium/KeePassium) 密码管理器 KeePass-compatible password manager for iOS and macOS
