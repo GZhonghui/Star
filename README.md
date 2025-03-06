@@ -266,6 +266,7 @@
 - [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) A curated list of awesome collision detection libraries and resources
 - [USTC_CG](https://github.com/Ubpa/USTC_CG) 中国科学技术大学《计算机图形学》课程作业
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch
+- [Nikke-db.github.io](https://github.com/Nikke-db/Nikke-db.github.io) 胜利女神 Nikke 的资源文件
 
 ## 游戏
 
