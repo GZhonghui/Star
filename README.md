@@ -180,6 +180,7 @@
 - [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) Node Editor built using Dear ImGui
 - [imgui](https://github.com/ocornut/imgui) Bloat-free Graphical User interface for C++ with minimal dependencies
 - [vue](https://github.com/vuejs/vue) 一个用于构建用户界面的JavaScript框架
+- [nodezator](https://github.com/IndieSmiths/nodezator) A generalist Python node editor
 
 ## 实用工具
 
