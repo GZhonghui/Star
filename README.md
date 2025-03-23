@@ -231,6 +231,7 @@
 - [Mos](https://github.com/Caldis/Mos) 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具 让你的滚轮爽如触控板
 - [pomotroid](https://github.com/Splode/pomotroid) Simple and visually-pleasing Pomodoro timer
 - [it-tools](https://github.com/CorentinTh/it-tools) 工具大合集 使用 Docker 部署 Collection of handy online tools for developers, with great UX
+- [PlayCover](https://github.com/PlayCover/PlayCover) 在 M 芯片的 Mac 上运行 iOS 应用
 
 ## 文档
 
