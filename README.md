@@ -158,6 +158,7 @@
 - [xLua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc
 - [wenyan](https://github.com/wenyan-lang/wenyan) 文言文編程語言 A programming language for the ancient Chinese
 - [stb](https://github.com/nothings/stb) stb single-file public domain libraries for C/C++
+- [gvm](https://github.com/moovweb/gvm) Go Version Manager
 
 ### 数学
 - [tinyremo](https://github.com/alecjacobson/tinyremo) 自动微分库 Tiny header-only, minimal dependency reverse-mode automatic differentiation library for C++
@@ -232,6 +233,7 @@
 - [pomotroid](https://github.com/Splode/pomotroid) Simple and visually-pleasing Pomodoro timer
 - [it-tools](https://github.com/CorentinTh/it-tools) 工具大合集 使用 Docker 部署 Collection of handy online tools for developers, with great UX
 - [PlayCover](https://github.com/PlayCover/PlayCover) 在 M 芯片的 Mac 上运行 iOS 应用
+- [dnd-resume](https://github.com/Arman19941113/dnd-resume) Resume Builder 在线简历生成工具
 
 ## 文档
 
@@ -269,6 +271,7 @@
 - [USTC_CG](https://github.com/Ubpa/USTC_CG) 中国科学技术大学《计算机图形学》课程作业
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch
 - [Nikke-db.github.io](https://github.com/Nikke-db/Nikke-db.github.io) 胜利女神 Nikke 的资源文件
+- [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
 
 ## 游戏
 
