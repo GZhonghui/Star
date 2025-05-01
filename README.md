@@ -197,6 +197,7 @@
 - [alist](https://github.com/AlistGo/alist) 一个支持多种存储的文件列表程序
 - [xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) 阿里云盘爬虫
 - [rclone](https://github.com/rclone/rclone) 挂载云存储到本地
+- [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于 JavaScript 的网盘文件下载地址获取工具
 
 ### 影音媒体
 - [kew](https://github.com/ravachol/kew) A terminal music player
