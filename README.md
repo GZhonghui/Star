@@ -191,6 +191,7 @@
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) PDF工具大全 #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) 提取微信聊天记录 将其导出成HTML、Word、Excel文档永久保存
 - [sfz](https://github.com/joyqi/sfz) 专门用于给图片加水印打码的工具 完全基于浏览器本地API 无任何网络请求
+- [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) python based software to unpack Amazon / Kindlegen generated ebooks
 
 ### 文件传输
 - [hfs](https://github.com/rejetto/hfs) HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system
