@@ -10,10 +10,13 @@
 - [grok](https://github.com/openai/grok) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 便宜、开源
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 便宜、开源
+- [gpt-oss](https://github.com/openai/gpt-oss) gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 
 ### 运行模型
 - [ollama](https://github.com/ollama/ollama) 在本地运行LLM模型 Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models
 - [lobe-chat](https://github.com/lobehub/lobe-chat) Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application
+- [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) Inference engine powering open source models on OpenRouter
+- [open-webui](https://github.com/open-webui/open-webui) User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
@@ -34,6 +37,7 @@
 - [jan](https://github.com/janhq/jan) Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations
+- [claude-code](https://github.com/anthropics/claude-code) Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ## CG
 
@@ -143,12 +147,14 @@
 - [renderdoc](https://github.com/baldurk/renderdoc) RenderDoc is a stand-alone graphics debugging tool
 - [Dependencies](https://github.com/lucasg/Dependencies) A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues
 - [1Panel](https://github.com/1Panel-dev/1Panel) 一个开源的云操作系统 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server
+- [nginx](https://github.com/nginx/nginx) HTTP服务器
 
 ### 插件
 - [taichi_houdini](https://github.com/taichi-dev/taichi_houdini) a High-Performance Multi-Material Continuum Physics Engine, as a Houdini extension
 - [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) 在虚幻引擎中使用Python Embed Python in Unreal Engine 4
 - [mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) Mitsuba integration add-on for Blender
 - [Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ) A Blender add-on for importing a sequence of OBJ meshes as frames
+- [black](https://github.com/psf/black) The uncompromising Python code formatter Python的自动代码格式化工具
 
 ### 网络
 - [muduo](https://github.com/chenshuo/muduo) Event-driven network library for multi-threaded Linux server in C++11
@@ -201,6 +207,7 @@
 - [xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) 阿里云盘爬虫
 - [rclone](https://github.com/rclone/rclone) 挂载云存储到本地
 - [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于 JavaScript 的网盘文件下载地址获取工具
+- [OpenList](https://github.com/OpenListTeam/OpenList) A new AList Fork to Anti Trust Crisis
 
 ### 影音媒体
 - [kew](https://github.com/ravachol/kew) A terminal music player
@@ -238,6 +245,8 @@
 - [it-tools](https://github.com/CorentinTh/it-tools) 工具大合集 使用 Docker 部署 Collection of handy online tools for developers, with great UX
 - [PlayCover](https://github.com/PlayCover/PlayCover) 在 M 芯片的 Mac 上运行 iOS 应用
 - [dnd-resume](https://github.com/Arman19941113/dnd-resume) Resume Builder 在线简历生成工具
+- [read-frog](https://github.com/mengxi-ream/read-frog) Read Frog - Open Source Immersive Translate 陪读蛙 - 开源沉浸式翻译
+- [kiss-translator](https://github.com/fishjar/kiss-translator) A simple, open source bilingual translation extension & Greasemonkey script 一个简约、开源的 双语对照翻译扩展 & 油猴脚本
 
 ## 文档
 
