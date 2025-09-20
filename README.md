@@ -17,6 +17,9 @@
 - [lobe-chat](https://github.com/lobehub/lobe-chat) Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application
 - [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) Inference engine powering open source models on OpenRouter
 - [open-webui](https://github.com/open-webui/open-webui) User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [LibreChat](https://github.com/danny-avila/LibreChat) Enhanced ChatGPT Clone
+- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) Light and Fast AI Assistant
+- [llumnix](https://github.com/AlibabaPAI/llumnix) Efficient and easy multi-instance LLM serving
 
 ### 文档阅读
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) AI翻译PDF PDF scientific paper translation with preserved formats
@@ -285,6 +288,7 @@
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch
 - [Nikke-db.github.io](https://github.com/Nikke-db/Nikke-db.github.io) 胜利女神 Nikke 的资源文件
 - [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
+- [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
 
 ## 游戏
 
@@ -302,6 +306,7 @@
 
 ### PC
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱
+- [FFXIVChnTextPatch-Souma](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma) FFXIV FF14 简体中文 汉化补丁
 
 ### MC
 - [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) 挑战一周实现MC I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
@@ -318,3 +323,6 @@
 ### 数据
 - [mitsuba-data](https://github.com/mitsuba-renderer/mitsuba-data) Data files for Mitsuba 2
 - [DeformingThings4D](https://github.com/rabbityl/DeformingThings4D) DeformingThings4D is an synthetic dataset containing 1,972 animation sequences spanning 31 categories of humanoids and animals
+
+### 生活
+- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 像老乡鸡那样做饭。主要部分于2024年完工，非老乡鸡官方仓库
